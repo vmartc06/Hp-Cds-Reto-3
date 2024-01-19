@@ -1,0 +1,16 @@
+{
+    "name": "victor/lib",
+    "autoload": {
+        "psr-4": {
+            "Misc\\": "../src/Misc",
+            "Dao\\": "../src/Dao"
+        }
+    },
+    "authors": [
+        {
+            "name": "Victor",
+            "email": "71905209+vmartc06@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,1 @@
+SELECT type AS UUID FROM Clothes;
